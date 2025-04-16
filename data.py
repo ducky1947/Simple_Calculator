@@ -4,7 +4,9 @@ operation=input("")
 b=int(input("enter the second number")
 
 def calculate(a,b):
-  # 
+  if operation == '+':
+    return result = a+b
+  elif
   # 
   # 
   # 

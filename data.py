@@ -10,7 +10,7 @@ def calculate(a,b):
     return a-b
   elif operation == '*':
     return a*b
-  # 
+  # .
   # 
   # 
 
